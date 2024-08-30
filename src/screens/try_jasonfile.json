@@ -1,0 +1,49 @@
+{
+    "alias": "once-upon-a-thyme-singapore",
+    "attributes": {
+        "menu_url": "http://www.onceuponathyme.com.sg/"
+    },
+    "categories": [
+        {
+            "alias": "streetvendors",
+            "title": "Street Vendors"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 1.32116365351294,
+        "longitude": 103.844692022847
+    },
+    "display_phone": "+65 6397 7063",
+    "id": "ru4NwxMVGt9Tl0KcKiwPeg",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/t6h784unjZqBaeZiDpyEWg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10 Sinaran Drive",
+        "address2": "Square 2 #B1-124",
+        "address3": "",
+        "city": "Singapore",
+        "country": "SG",
+        "cross_streets": "",
+        "display_address": [
+            "10 Sinaran Drive",
+            "Square 2 #B1-124",
+            "Singapore 307506",
+            "Singapore"
+        ],
+        "state": "SG",
+        "zip_code": "307506"
+    },
+    "name": "Once Upon A Thyme",
+    "phone": "+6563977063",
+    "photos": [],
+    "price": "$",
+    "rating": 4.4,
+    "review_count": 7,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/once-upon-a-thyme-singapore?adjust_creative=iQlrRzg_OcpjpExWW04Ndw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=iQlrRzg_OcpjpExWW04Ndw"
+}
